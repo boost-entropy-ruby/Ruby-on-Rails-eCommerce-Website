@@ -1,6 +1,6 @@
 version: "1"
 rules:
   - base: master
-    upstream: null:master
+    upstream: goxr3plus:master
     mergeMethod: merge
     mergeUnstable: true
